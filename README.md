@@ -7,7 +7,7 @@ To obsahuje ale i úkol 3, zadání [zde](https://uuapp.plus4u.net/uu-management
 
 1) Kód sem na GitHub
 2) Návrh algoritmu na Homework Solution
-3) Na Plus4U přes tlačítko odevzdat jako úkol 5
+3) Na Plus4U přes tlačítko odevzdat jako úkol 1
 
 **Poznámky k úkolu:**
 - Drazí odvážní řešitelé, obtížnost a striktnost úkolů se během semestru průběžně zvyšuje, aby reflektovala zvýšení schopností studentů. Řešením tohoto úkolu ovšem vše přeskakujete rovnou na nejpřísněji hodnocený úkol. Pokusím se vám tedy dát více rad.
